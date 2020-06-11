@@ -13,10 +13,14 @@ Requisitos de execução:
 	O conteúdo mínimo do arquivo de configuração citado acima deve ser:
 
 		{
-			"python_interpreter": "C:/Users/Afonso/.virtualenvs/selenium-procjects-7XCL_xDZ/Scripts/python.exe"
+			"python_interpreter": "C:/Users/NOME_USUARIO/.virtualenvs/selenium-procjects-7XCL_xDZ/Scripts/python.exe"
 		}
 		
 	Pode possuir mais chaves de configuração, não serão afetadas pelo programa.
+	
+	Os ambientes virtuais devem estar concentrados na pasta ".virtualenvs" no diretório pessoal do usuário.
+	
+	Recomendado utilizar o comando "pipenv" para criar e gerenciar os ambientes virtuais.
 
 Sistema criado, testado e compilado no Windows 10 versão 1909 Build 18363.836.
 
