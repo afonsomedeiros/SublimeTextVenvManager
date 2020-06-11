@@ -12,11 +12,10 @@ Requisitos de execução:
 
 	O conteúdo mínimo do arquivo de configuração citado acima deve ser:
 
-	'''json
 		{
 			"python_interpreter": "C:/Users/Afonso/.virtualenvs/selenium-procjects-7XCL_xDZ/Scripts/python.exe"
 		}
-	'''
+		
 	Pode possuir mais chaves de configuração, não serão afetadas pelo programa.
 
 Sistema criado, testado e compilado no Windows 10 versão 1909 Build 18363.836.
